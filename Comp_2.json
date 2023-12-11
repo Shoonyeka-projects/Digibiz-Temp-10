@@ -1,0 +1,29 @@
+
+{
+    "testimonials": [
+      {
+        "title": "Pixel Perfect design",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad",
+        "author": "John Doe",
+        "designation": "Founder, Arrow",
+
+        "title_meta": "20",
+        "content_meta": "135",
+        "author_meta": "8",
+        "designation_meta": "14"
+      },
+      {
+        "title": "Minimal and Clean",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad",
+        "author": "Rocky Hych",
+        "designation": "CTO, Upside Down",
+
+        "title_meta": "17",
+        "content_meta": "135",
+        "author_meta": "10",
+        "designation_meta": "16"
+      }
+ 
+    ]
+  }
+  

@@ -1,0 +1,28 @@
+
+{
+    "stats": [
+      {
+        "value": "3.2",
+        "label": "Hours",
+
+        "value_meta": "3",
+        "label_meta": "5"
+      },
+      {
+        "value": "217",
+        "label": "Projects",
+
+        "value_meta": "3",
+        "label_meta": "8"
+      },
+      {
+        "value": "18.3",
+        "label": "Cups of Coffee",
+
+        "value_meta": "3",
+        "label_meta": "14"
+      }
+      
+    ]
+  }
+  
